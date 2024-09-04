@@ -1,0 +1,14 @@
+D:\Develoment\TarFileArchiver\bin\Debug\net8.0\TarFileArchiver.exe
+D:\Develoment\TarFileArchiver\bin\Debug\net8.0\TarFileArchiver.deps.json
+D:\Develoment\TarFileArchiver\bin\Debug\net8.0\TarFileArchiver.runtimeconfig.json
+D:\Develoment\TarFileArchiver\bin\Debug\net8.0\TarFileArchiver.dll
+D:\Develoment\TarFileArchiver\bin\Debug\net8.0\TarFileArchiver.pdb
+D:\Develoment\TarFileArchiver\obj\Debug\net8.0\TarFileArchiver.GeneratedMSBuildEditorConfig.editorconfig
+D:\Develoment\TarFileArchiver\obj\Debug\net8.0\TarFileArchiver.AssemblyInfoInputs.cache
+D:\Develoment\TarFileArchiver\obj\Debug\net8.0\TarFileArchiver.AssemblyInfo.cs
+D:\Develoment\TarFileArchiver\obj\Debug\net8.0\TarFileArchiver.csproj.CoreCompileInputs.cache
+D:\Develoment\TarFileArchiver\obj\Debug\net8.0\TarFileArchiver.dll
+D:\Develoment\TarFileArchiver\obj\Debug\net8.0\refint\TarFileArchiver.dll
+D:\Develoment\TarFileArchiver\obj\Debug\net8.0\TarFileArchiver.pdb
+D:\Develoment\TarFileArchiver\obj\Debug\net8.0\TarFileArchiver.genruntimeconfig.cache
+D:\Develoment\TarFileArchiver\obj\Debug\net8.0\ref\TarFileArchiver.dll
