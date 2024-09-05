@@ -4,8 +4,8 @@ class TarFileArchiver
 {
 	static void Main(string[] args)
 	{
-		string sourceDiretory = @"D:\BAFL_Provided_TatFiles";
-		string archiveDirectory = @"D:\ArchiveFiles\UnTarFiles";
+		string sourceDiretory = @"D:\Develoment\TestingTarFilesArchiver\BAFL_Provided_TarFiles";
+		string archiveDirectory = @"D:\Develoment\TestingTarFilesArchiver\ArchiveFiles\UnTarFiles";
 
 		try
         {

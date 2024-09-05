@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TarFileArchiver")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+faee849c60d1ec3a98b2136ff6a6cc40cc835144")]
 [assembly: System.Reflection.AssemblyProductAttribute("TarFileArchiver")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TarFileArchiver")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
